@@ -1,12 +1,11 @@
-# OJS 3.0 User Guide
+# OPS 3.0 User Guide
 
-This guide will help you publish journals and issues with Open Journal Systems.
+This guide will help you to manage the posting of preprint research papers using Open Preprint Server.
 
-It provides an introductory overview for each stage of the workflow from submission to production. It also provides further background information on some of the configuration options.
 
 When you see **Help** links within the application, they'll open a help panel with the most useful information for that section.
 
-A more detailed look at this software is available in [Learning OJS 3](https://docs.pkp.sfu.ca/learning-ojs/en/).
+A more detailed look at this software is available in [Learning OPS 3](https://docs.pkp.sfu.ca/learning-ops/en/).
 
 --
 

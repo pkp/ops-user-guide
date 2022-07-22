@@ -5,16 +5,16 @@
 1. [Sections](journal-settings#sections)
 1. [Categories](journal-settings#categories)
 
-In Journal Settings you can configure information about the journal, including editorial team, contacts, sections, and categories for published content. See [Learning OJS 3: Journal Settings](https://docs.pkp.sfu.ca/learning-ojs/en/journal-setup) for detailed instructions.
+In Server Settings you can configure information about the Press, including preprint server team, contacts, sections (if applicable), and categories for published content. See [Learning OPS: Setting Up and Maintaining Your Server](https://docs.pkp.sfu.ca/learning-ojs/en/journal-setup) for detailed instructions.
 
 ## <a name="masthead"></a>Masthead
-Under Masthead enter information about your journal. Some of the information will automatically be displayed on pages of your journal's website.
+Under Masthead enter information about your Preprint Server. Some of the information will automatically be displayed on pages of your Servers's website.
 
 ## <a name="contact"></a>Contact
-What you fill in for Contact tells users how to contact your journal. The Principal Contact is the automatic sender and receiver for some automated emails.
+What you fill in for Contact tells users how to contact your Server. The Principal Contact is the automatic sender and receiver for some automated emails.
 
 ## <a name="sections"></a>Sections
-You can add new sections or edit the sections listed here. Authors will be asked to select a section when they make a submission, and the articles you publish can be organized into sections.
+Sections are not used in OPS the way they are used in OJS because in OPS you do not publish issues and posted preprints are not organized by sections. Sections can be used to classify preprints in different disciplines or document types.
 
 ## <a name="categories"></a>Categories
-Categories offer another way to organize and provide access to your content by theme or category. You can create and edit categories here, display them as pages on your website, and add articles to them by editing the articles' metadata.
+Categories can be used to classify preprints in different disciplines of knowledge. Unlike sections, there can be multiple categories associated with a submission/preprint.

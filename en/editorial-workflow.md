@@ -1,45 +1,42 @@
 # Editorial Workflow
 
-1. [Managing Submission Details](editorial-workflow#manage-submission-details)
+1. [Moderation and Production](editorial-workflow#moderation-and-production)
 1. [Editorial Actions](editorial-workflow#editorial-actions)
 1. [Participants](editorial-workflow#participants)
 
-The editorial workflow allows you to usher a submission from initial evaluation through peer review, copyediting, and production, where the item is prepared for publication.
+The editorial workflow in OPS is simple compared to that of a journal. When a preprint is submitted it is immediately in the Production stage and Production is the only stage in the workflow.
 
-Each tab on the workflow page provides you with the information, tools, and discussion panels you'll need to complete the tasks for that stage. You can [add participants](editorial-workflow#participants) to help you. And when your ready, you'll be presented with a range of [editorial actions](editorial-workflow#editorial-actions) appropriate to each stage. For more information, see [Learning OJS 3: Editorial Workflow](https://docs.pkp.sfu.ca/learning-ojs/en/editorial-workflow).
+For more information, see [Learning OJS 3: Editorial Workflow](https://docs.pkp.sfu.ca/learning-ops/en/editorial-workflow).
 
-## <a name="manage-submission-details"></a>Managing Submission Details
+## <a name="moderation-and-production"></a>Moderation and Production
 
-Submission details appear at the top of the page. In this area, you'll also find tools to help you manage the submission's metadata and editorial history. The data attached to the submission from these tools persists across all stages.
+When a preprint is submitted it is immediately in the Production stage and Production is the only stage in the workflow. Depending on your configuration either the Preprint Server Manager or Moderations will receive a notification when a new submission has been received.  
 
-### <a name="metadata"></a>Metadata
+### <a name="Activity-log"></a>Activity log
 
-The Metadata section includes two tabs: Submission and Identifiers.
+Add notes for record-keeping and view a log of all events associated with this submission. Only server team and administrative staff have access to the Activity log.
 
-Submission includes the submission metadata, such as article title, abstract, contributors, and keywords.
-
-Identifiers provides a space to add any public URL identifiers.
-
-### <a name="editorial-history"></a>History
-
-Add notes for record-keeping and view a log of all events associated with this submission. Only editorial and administrative staff have access to the Editorial History.
-
-### <a name="submission-library"></a>Submission Library
+### <a name="submission-library"></a>Library
 
 A quick-access repository for any files that you'd like to track along with the submission. This is useful for files that aren't specific to any stage, such as signed contracts, marketing files, or guidelines you'd like to share with copyeditors or other assistants.
 
 You can quickly add files from your [Publisher Library](settings/workflow-settings#publisher) by clicking on **View Document Library**.
 
+### <a name="Workflow"></a>Workflow
+
+At the Production stage, the Preprint Server Manager or Moderator can create discussions, assign participants, and record their decision.
+
+### <a name="Preprint"></a>Preprint
+View and revise the submission metadata.
+
 ## <a name="editorial-actions"></a> Editorial Actions
 
-At the top right of each stage of the workflow, you'll see the editorial actions available to you. These decisions change with each stage. In most cases, they complete the current stage and forward the submission onto the next stage.
+There are two possible editorial decisions, which are ‘Decline Submission’ or ‘Post the preprint’. Selecting ‘Decline Submission” will open a pop-up with the option to notify the author(s) or not, and selecting ‘Post the preprint’ will move the user to the Publication tab.
 
-Read the [help guide](https://docs.pkp.sfu.ca/learning-ojs/en/editorial-workflow) for each stage to learn more about the editorial actions.
+It is also possible to revert a ‘Decline Submission’ Decision. This can be done by clicking ‘Change Decision’ after you have recorded a Decline decision followed by Revert Decline.
 
 ## <a name="participants"></a>Participants
 
-On the right of each stage of the workflow, you'll find a list of users who have access to this stage. You can add editorial assistants, copyeditors, layout editors or other users you'd like to have access to the current stage.
+On the right of each stage of the workflow, you'll find a list of users who have access to submission. It’s possible to add a new participant to the submission by selecting the ‘Assign’ button. 
 
-*When you add a user, that user will have access to any stages allowed by their user role*. For example, an Editor added to the Participants grid will have access to every stage. But a Copyeditor will only have access to the Copyediting stage.
-
-*You won't need to add Reviewers to the Participants panel.* Once you get to the [review stages](editorial-workflow/review), you'll be able to manage the reviewers in a more convenient panel.
+When assigning a moderator it’s possible to allow for them to view and edit submission metadata (this option is selected by default) and/or to only recommend an editorial decision, in which case a Server Manager or another Moderator needs to record the decision to either post or decline the submission.

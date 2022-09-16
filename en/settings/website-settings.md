@@ -10,7 +10,7 @@ In Website Settings you can configure the appearance of and information on your 
 Here you can change the look and feel of your journal website, including upload images and select a theme.
 
 ### Theme
-Allows you to change the look of your website, by selecting different fonts and colours. 
+While OPS only offers the Default theme, you can change the look of your website, by selecting different fonts and colours. 
 
 ### Setup
 Upload a logo, enter content into the bottom of your site, and drag and drop items that you want to appear or not appear on your sidebar.

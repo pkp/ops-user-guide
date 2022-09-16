@@ -1,7 +1,7 @@
 # Workflow Setings
 
 1. [Submission](workflow-settings#submission)
-1. [Publisher Library](workflow-settings#publisher)
+1. [Preprint Server Library](workflow-settings#library)
 1. [Emails](workflow-settings#emails)
 
 Configure all aspects of the [Editorial Workflow](../editorial-workflow), including file management, submission guidelines and requirements, peer review deadlines and guidelines, email notifications, and much more. See [Learning OPS 3 Workflow Settings](https://docs.pkp.sfu.ca/learning-ops/en/setup#workflow-settings) for detailed instructions.
@@ -24,10 +24,10 @@ Provide authors with a checklist of tasks they should complete before completing
 ### Author Guidelines
 Author Guidelines will be shown to authors when they make a submission.
 
-## <a name="publisher"></a>Publisher Library
-The Publisher Library provides a file repository for storing and quickly sharing common files, such as writing guidelines, author contracts and release forms, and marketing materials.
+## <a name="library"></a>Preprint Server Library
+The Preprint Server Library provides a file repository for storing and quickly sharing common files, such as writing guidelines, author contracts and release forms, and marketing materials.
 
-Items that are stored in the Publisher Library can be quickly retrieved and added into a [Submission Library](../editorial-workflow#submission-library) to be shared with authors or assistants.
+Items that are stored in the Preprint Server Library can be quickly retrieved and added into a [Submission Library](../editorial-workflow#submission-library) to be shared with authors or assistants.
 
 ## <a name="emails"></a>Emails
 OPS has a number of email templates that are sent automatically such as the submission ackowledgement, password and sent manually. The settings in this section allow you to edit the signature attached to each email as well as change the default messages sent for each type of email.

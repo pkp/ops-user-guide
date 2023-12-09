@@ -1,9 +1,9 @@
 # Journal Settings
 
-1. [Masthead](journal-settings#masthead)
-1. [Contact](journal-settings#contact)
-1. [Sections](journal-settings#sections)
-1. [Categories](journal-settings#categories)
+1. [Masthead](server-settings#masthead)
+1. [Contact](server-settings#contact)
+1. [Sections](server-settings#sections)
+1. [Categories](server-settings#categories)
 
 In Journal Settings you can configure information about the journal, including editorial team, contacts, sections, and categories for published content. See [Learning OJS 3: Journal Settings](https://docs.pkp.sfu.ca/learning-ojs/en/journal-setup) for detailed instructions.
 

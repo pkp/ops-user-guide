@@ -13,7 +13,7 @@
 * [Issue Management](issue-management)
 * [Tasks](tasks)
 * Settings
-   * [Journal Settings](settings/journal-settings)
+   * [Server Settings](settings/server-settings)
    * [Website Settings](settings/website-settings)
    * [Workflow Settings](settings/workflow-settings)
    * [Distribution Settings](settings/distribution-settings)
